@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730483963 source:c:\users\achar\desktop\rubrica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1714813974 c:\users\achar\desktop\rubrica\funzioni.h
+	<time.h>
+	<windows.h>
+
